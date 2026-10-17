@@ -17,3 +17,9 @@ Instalamos dependencias
 ```sh
 pip install -r requirements.txt
 ```
+
+Arrancamos el servidor
+
+```sh
+python manage.py runserver
+```
